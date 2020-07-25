@@ -6,7 +6,7 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100
 
 Labs:
 https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
-[Research Methods for Data Science with Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
+* [Research Methods for Data Science with Python](https://github.com/MicrosoftLearning/Research-Methods-for-Data-Science-with-Python)
 
 # Courses
 
