@@ -22,7 +22,7 @@ https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
 
 # Blueprint
 
-## Analyze solution requirements (25-30%)**			
+## Analyze solution requirements (25-30%)		
 ### Recommend Azure Cognitive Services APIs to meet business requirements					
 * Select the processing architecture for a solution					
 * Select the appropriate data processing technologies					
@@ -38,7 +38,7 @@ https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
 * Identify appropriate services and tools for a solution					
 * Iidentify integration points with other Microsoft services					
 * Identify storage required to store logging, bot state data, and Azure Cognitive Services output					
-## Design AI solutions (40-45%)**					
+## Design AI solutions (40-45%)				
 ### Design solutions that include one or more pipelines					
 * Define an AI application workflow process					
 * Design a strategy for ingest and egress data					
@@ -63,7 +63,7 @@ https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
 * Ensure that data adheres to compliance requirements defined by your organization					
 * Ensure appropriate governance of data					
 * Design strategies to ensure that the solution meets data privacy regulations and industry standards					
-## Implement and monitor AI solutions (25-30%)**				
+## Implement and monitor AI solutions (25-30%)			
 ### Implement an AI workflow					
 * Develop AI pipelines					
 * Manage the flow of data through the solution components					
