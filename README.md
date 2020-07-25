@@ -7,8 +7,14 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100
 Cools Labs:
 https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
 
+# Courses
 
-**Courses Online Free:**
+## Paid
+### Pluralsight
+* [Microsoft Azure AI Engineer (AI-100)](https://app.pluralsight.com/paths/certificate/microsoft-azure-ai-engineer-ai-100)
+
+## Free
+### Microsoft Learn
 * [Process and classify images with the Azure Cognitive Vision Services](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/)
 
 * [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/)
